@@ -1,3 +1,5 @@
+> Note: This is a fork of CoolSteel712's VeryWatchTool. It maintains its functionality, while the source code will be updated by uysx.
+
 # VeryWatchTool
 
 **VeryWatchTool** is a free, open-source watch face editor for the **TOOBUR IDW20**, **Yoever IDW18**, and many other VeryFit-compatible smartwatches.
